@@ -23,7 +23,7 @@ Atelier pour des groupes max de 5 à 6 personnes maximum, durée 1 heure (à ada
 
 Une possibilité d’animation est de découper l’atelier en 3 phases (effectuées en groupes. Prévoir plusieurs facilitateurs si besoin. Durée de chaque phase à titre indicatif) avec une introduction et une conclusion avec moment d’échange avec tout le monde.
 
-[Détails sur l'atelier et aide pour le facilitateur](ressources/Aide-et-Facilitation-pour-atelier-DORA-pied-au-plancher.pdf)
+[Détails sur l'atelier et aide pour le facilitateur](Ressources/Aide-et-Facilitation-pour-atelier-DORA-pied-au-plancher.pdf)
 
 Découpage des phases:
 
@@ -44,7 +44,7 @@ Découpage des phases:
 
 Cet atelier peut être effectué en présentiel avec jeu de cartes à imprimer et découper.
 
-[Présentation de l'atelier à Agile tour Toulouse 2025](Ressources/Accelerate - Agile Tour Tlse 2025.pdf)
+[Présentation de l'atelier à Agile tour Toulouse 2025](Ressources/Accelerate-Agile-Tour-Tlse-2025.pdf)
 
 ![Exemple préparation atelier avec jeu de cartes](screenshots/Atelier-Dora_Cartes.jpg)
 
@@ -62,7 +62,7 @@ Cet atelier peut être effectué en présentiel avec jeu de cartes à imprimer e
 
 Il peut également être effectué à distance, un template Mural est disponible:
 
-[https://app.mural.co/t/dev18468/template/5a027682-c5cd-45e4-9035-80b7f95781bd] (https://app.mural.co/t/dev18468/template/5a027682-c5cd-45e4-9035-80b7f95781bd)
+[https://app.mural.co/t/dev18468/template/5a027682-c5cd-45e4-9035-80b7f95781bd](https://app.mural.co/t/dev18468/template/5a027682-c5cd-45e4-9035-80b7f95781bd)
 
 ![Exemple préparation atelier avec Template Mural](screenshots/Atelier-Dora_Mural.jpg)
 
