@@ -62,7 +62,7 @@ Cet atelier peut être effectué en présentiel avec jeu de cartes à imprimer e
 
 Il peut également être effectué à distance, un template Mural est disponible:
 
-[https://app.mural.co/t/dev18468/template/5a027682-c5cd-45e4-9035-80b7f95781bd](https://app.mural.co/t/dev18468/template/5a027682-c5cd-45e4-9035-80b7f95781bd)
+[https://app.mural.co/template/5a027682-c5cd-45e4-9035-80b7f95781bd/f67c5610-168b-46ff-aee4-60bb71c2a0e9](https://app.mural.co/template/5a027682-c5cd-45e4-9035-80b7f95781bd/f67c5610-168b-46ff-aee4-60bb71c2a0e9)
 
 ![Exemple préparation atelier avec Template Mural](screenshots/Atelier-Dora_Mural.jpg)
 
